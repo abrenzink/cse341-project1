@@ -1,14 +1,18 @@
-GET https://project1-b45s.onrender.com/contacts HTTP/1.1
+GET https://project1-b45s.onrender.com/
 
 ###
 
-GET https://project1-b45s.onrender.com/contacts/6501111afdaf527001eabce6 HTTP/1.1
+GET https://project1-b45s.onrender.com/contacts 
 
 ###
 
-GET https://project1-b45s.onrender.com/contacts/65011144fdaf527001eabce7 HTTP/1.1
+GET https://project1-b45s.onrender.com/contacts/6501111afdaf527001eabce6 
 
 ###
 
-GET https://project1-b45s.onrender.com/contacts/6501100afdaf527001eabce2 HTTP/1.1 
+GET https://project1-b45s.onrender.com/contacts/65011144fdaf527001eabce7
+
+###
+
+GET https://project1-b45s.onrender.com/contacts/6501100afdaf527001eabce2
 
